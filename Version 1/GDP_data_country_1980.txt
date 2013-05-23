@@ -1,0 +1,246 @@
+Arab World,2496
+Caribbean small states,2420
+East Asia & Pacific (all income levels),1152
+East Asia & Pacific (developing only),280
+Euro area,9691
+Europe & Central Asia (all income levels),5669
+Europe & Central Asia (developing only),0
+European Union,8272
+Heavily indebted poor countries (HIPC),395
+High income,9504
+High income: nonOECD,7778
+High income: OECD,9613
+Latin America & Caribbean (all income levels),2127
+Latin America & Caribbean (developing only),2089
+Least developed countries: UN classification,310
+Low & middle income,700
+Low income,291
+Lower middle income,450
+Middle East & North Africa (all income levels),2504
+Middle East & North Africa (developing only),1204
+Middle income,752
+North America,12058
+Not classified,0
+OECD members,8698
+Other small states,1142
+Pacific island small states,1329
+Small states,1567
+South Asia,264
+Sub-Saharan Africa (all income levels),701
+Sub-Saharan Africa (developing only),701
+Upper middle income,987
+World,2479
+Afghanistan,238
+Albania,0
+Algeria,2251
+American Samoa,0
+Andorra,11958
+Angola,0
+Antigua and Barbuda,1567
+Argentina,2736
+Armenia,0
+Aruba,0
+Australia,10199
+Austria,10758
+Azerbaijan,0
+The Bahamas,6340
+Bahrain,8584
+Bangladesh,225
+Barbados,3458
+Belarus,0
+Belgium,12707
+Belize,1334
+Benin,389
+Bermuda,11357
+Bhutan,315
+Bolivia,848
+Bosnia and Herzegovina,0
+Botswana,1065
+Brazil,1931
+Brunei Darussalam,26037
+Bulgaria,2261
+Burkina Faso,267
+Burundi,223
+Cambodia,0
+Cameroon,740
+Canada,10934
+Cape Verde,474
+Cayman Islands,0
+Central African Republic,351
+Chad,227
+Channel Islands,0
+Chile,2466
+China,193
+Colombia,1243
+Comoros,376
+Dem. Rep. Congo,533
+Rep. Congo,949
+Costa Rica,2062
+Cote d'Ivoire,1197
+Croatia,0
+Cuba,2029
+Curacao,0
+Cyprus,4232
+Czech Republic,0
+Denmark,13607
+Djibouti,0
+Dominica,785
+Dominican Republic,1144
+Ecuador,1495
+Arab Rep. Egypt,510
+El Salvador,768
+Equatorial Guinea,0
+Eritrea,0
+Estonia,0
+Ethiopia,0
+Faeroe Islands,0
+Fiji,1893
+Finland,11091
+France,12514
+French Polynesia,9015
+Gabon,6269
+The Gambia,383
+Georgia,0
+Germany,11746
+Ghana,407
+Greece,5620
+Greenland,9483
+Grenada,940
+Guam,0
+Guatemala,1120
+Guinea,0
+Guinea-Bissau,133
+Guyana,776
+Haiti,0
+Honduras,707
+China Hong Kong SAR,5700
+Hungary,2069
+Iceland,14602
+India,271
+Indonesia,517
+Islamic Rep. Iran,2334
+Iraq,3453
+Ireland,6179
+Isle of Man,0
+Israel,5617
+Italy,8148
+Jamaica,1256
+Japan,9308
+Jordan,1816
+Kazakhstan,0
+Kenya,447
+Kiribati,481
+Dem. Rep. Korea,0
+Rep. Korea,1674
+Kosovo,0
+Kuwait,20799
+Kyrgyz Republic,0
+Lao PDR,0
+Latvia,0
+Lebanon,0
+Lesotho,329
+Liberia,445
+Libya,0
+Liechtenstein,21207
+Lithuania,0
+Luxembourg,16389
+China Macao SAR,0
+FYR Macedonia,0
+Madagascar,470
+Malawi,198
+Malaysia,1803
+Maldives,271
+Mali,247
+Malta,3948
+Marshall Islands,0
+Mauritania,467
+Mauritius,1177
+Mexico,2826
+Fed. Sts. Micronesia,0
+Moldova,0
+Monaco,52846
+Mongolia,0
+Montenegro,0
+Morocco,955
+Mozambique,290
+Myanmar,0
+Namibia,2141
+Nepal,129
+Netherlands,12775
+New Caledonia,8269
+New Zealand,7347
+Nicaragua,661
+Niger,427
+Nigeria,850
+Northern Mariana Islands,0
+Norway,15595
+Oman,5064
+Pakistan,294
+Palau,0
+Panama,1951
+Papua New Guinea,792
+Paraguay,1433
+Peru,1195
+Philippines,689
+Poland,0
+Portugal,3323
+Puerto Rico,4503
+Qatar,35331
+Romania,0
+Russian Federation,0
+Rwanda,242
+Samoa,0
+San Marino,0
+Sao Tome and Principe,0
+Saudi Arabia,16764
+Senegal,647
+Serbia,0
+Seychelles,2288
+Sierra Leone,348
+Singapore,4913
+Sint Maarten (Dutch part),0
+Slovak Republic,0
+Slovenia,0
+Solomon Islands,736
+Somalia,94
+South Africa,2921
+South Sudan,0
+Spain,6037
+Sri Lanka,273
+St. Kitts and Nevis,1081
+St. Lucia,1155
+St. Martin (French part),0
+St. Vincent and the Grenadines,600
+Sudan,380
+Suriname,2173
+Swaziland,898
+Sweden,15891
+Switzerland,17807
+Syrian Arab Republic,1467
+Tajikistan,0
+Tanzania,0
+Thailand,681
+Timor-Leste,0
+Togo,426
+Tonga,573
+Trinidad and Tobago,5784
+Tunisia,1370
+Turkey,1560
+Turkmenistan,0
+Turks and Caicos Islands,0
+Tuvalu,0
+Uganda,98
+Ukraine,0
+United Arab Emirates,42903
+United Kingdom,9623
+United States,12180
+Uruguay,3487
+Uzbekistan,0
+Vanuatu,981
+RB Venezuela,4465
+Vietnam,0
+Virgin Islands (U.S.),7503
+West Bank and Gaza,0
+Rep. Yemen,0
+Zambia,673
+Zimbabwe,916
