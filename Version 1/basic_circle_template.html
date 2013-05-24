@@ -11,7 +11,7 @@
     var sampleSVG = d3.select("#viz")
         .append("svg")
         .attr("width", 800)
-        .attr("height", 800);    
+        .attr("height", 600);    
         
 d3.csv("population_CO2_GDP_1980.csv",function(data){
     var circles =
@@ -22,7 +22,7 @@ d3.csv("population_CO2_GDP_1980.csv",function(data){
             .attr({
                     cx: function(d) { return d.GDP/50; },
                     cy: function(d) { return d.CO2; },
-                    r: 8, 
+                    r: function(d) { return d.Population/10000000; }, 
                   })
 });
 
